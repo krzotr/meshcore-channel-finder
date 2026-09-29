@@ -1,0 +1,30 @@
+[package]
+name = "meshcore-channel-finder"
+version = "0.1.0"
+edition = "2024"
+
+default-run = "meshcore-channel-finder"
+
+[[bin]]
+name = "meshcore-channel-finder"
+path = "src/main.rs"
+
+[dependencies]
+aes = "0.8"
+ecb = "0.1"
+sha2 = { version = "0.10", features = ["asm"] }
+hex = "0.4"
+hmac = "0.12"
+struson = "0.7"
+chrono = "0.4"
+rayon = "1"
+argparse-rs = "0.1.0"
+num-format = "0.4"
+
+[profile.release]
+opt-level = 3
+lto = "fat"
+codegen-units = 1
+panic = "abort"
+strip = true
+
