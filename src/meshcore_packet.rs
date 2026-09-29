@@ -1,3 +1,6 @@
+// SPDX-License-Identifier: GPL-3.0-or-later
+// Copyright (C) 2026 krzotr <https://github.com/krzotr/meshcore-channel-finder>
+
 #[derive(Debug, PartialEq)]
 pub enum GroupMessagePacketError {
     InvalidPacketLength(usize),

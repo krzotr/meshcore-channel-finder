@@ -2,6 +2,11 @@
 name = "meshcore-channel-finder"
 version = "0.1.0"
 edition = "2024"
+authors = ["krzotr"]
+description = "Finds MeshCore channel names and secrets by brute-forcing candidate secrets against captured group text packets."
+license = "GPL-3.0-or-later"
+repository = "https://github.com/krzotr/meshcore-channel-finder"
+readme = "README.md"
 
 default-run = "meshcore-channel-finder"
 
