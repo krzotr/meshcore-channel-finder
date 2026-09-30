@@ -202,6 +202,7 @@ You can use services to download some data and play:
 - live.meshcorekk.xyz
 - mc.inside.net.pl
 - analyzer.marwoj.net
+- corescope.malinovi.com
 - map.meshcore.hu
 - analyzer.acadianamesh.com
 - analyzer.gulfcoastmesh.org
