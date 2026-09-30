@@ -42,6 +42,7 @@ adsb
 afu
 agh
 ai
+ai-bot
 aich
 aida
 aihomer
@@ -68,6 +69,7 @@ arcut
 ares
 arrakis
 artificialintelligence
+asb
 asheville
 ast2sea
 astoria
@@ -75,6 +77,7 @@ astrophotography
 at
 atak
 at-bgld
+at-graz
 at-hl
 at-ktn
 at-ktn-bot
@@ -186,6 +189,7 @@ botczestochowa
 botczwa
 bot-dallas
 bot-eat
+botest
 bot-eug
 bot-everett
 bot-islands
@@ -215,6 +219,7 @@ bottest
 bottolf
 bot-van
 bot-waw
+brandenburg
 bratek
 bratislava
 bratki
@@ -260,6 +265,7 @@ carletonplace
 cars
 cascadia
 castlerock
+casusbelli
 cats
 caturday
 cavebot
@@ -298,6 +304,7 @@ circletag
 clallam
 clarksville
 clarktest
+clatsop
 clatsopmesh
 clermontlounge
 clevelandtn
@@ -359,6 +366,7 @@ derby
 desertrat
 dev
 developer
+devhack
 devnull
 dev-test
 devtest
@@ -386,6 +394,7 @@ dk-sjaelland
 dk-vejvagt
 dld
 dl-mitte
+dms
 dolnoslaskie
 drama
 drammen
@@ -431,6 +440,7 @@ erccheckin
 erfurt
 ergoldsbach
 ericstest
+erictesting
 erzgebirge
 escondido
 espanol
@@ -443,6 +453,7 @@ eugene
 europe
 everyonerules
 evsrt
+f1
 f51-r
 fairfield-county
 fallbrook
@@ -453,6 +464,7 @@ fergusonfamily
 feuerwehr
 ffdd
 fiddlefans
+filosofija
 finance
 finland
 firewatch
@@ -469,11 +481,14 @@ foobot
 food
 forchheim
 fr
+fr-33
+france
 franken
 franklinpark
 fraservalley
 fredericia
 freehardware
+freiberg
 freistadt
 freq51
 fridayharbor
@@ -503,6 +518,7 @@ germering
 gg
 ghostnet
 gilowice
+gironde
 gliwice
 global
 gmrs
@@ -539,6 +555,7 @@ grrcon
 grudziadz
 gta
 gtc
+guelph
 guns
 gymdtpb
 gympb
@@ -546,11 +563,15 @@ h
 hakesbury
 hal9k
 halland
+halle
 halmstad
 ham
+hamburg
 hamco
 hamfest
+hamfestchattanooga
 hamiltontn
+hamninja
 ham-radio
 hamradio
 hannestest
@@ -562,6 +583,7 @@ harrypotter
 hashtagplus
 hashtest
 hassfurt
+hauxdorf
 hayhurst
 hbc
 hdf
@@ -632,6 +654,7 @@ janusz
 jarocin
 jarzombki
 jaslo
+jasnadupa
 jawornik-bot
 jays
 JCFIRE1
@@ -652,6 +675,7 @@ jutraniema
 jylland
 k6pqn
 k8jtd
+kaamen
 kalisz
 kalmar
 kalmar-sensors
@@ -680,6 +704,7 @@ knoxville
 kobylka
 kod-bot
 kolobrzeg
+komin
 konin
 konstrukcje
 kosice
@@ -713,12 +738,14 @@ lds-erc
 leafs
 learning
 lebronjamessucks
+legnica
 leipzig
 lemvig
 leszno
 lexky-test
 leyden
 li
+lietuva
 lillemesh
 lillesmesh
 lilygo
@@ -732,8 +759,10 @@ lnktest
 locobot
 lodz
 lodzkie
+lol
 longfast
 longueuil
+loradar
 losangeles
 lr
 lse-bot
@@ -741,6 +770,7 @@ lsu-saints-talk
 LSU-SAINTS-TALK
 lubelskie
 lublin
+lubuskie
 lupulus
 luxembourg
 lv
@@ -765,6 +795,7 @@ malopolska
 malopolskie
 ma-mesh
 mammoth
+manitowoc
 mansfield
 maplemesh
 maple-valley
@@ -810,6 +841,7 @@ meshops
 meshpatch
 meshstation
 meshtemp
+meshtest
 meshwar
 meshwars
 meshwx-test
@@ -840,6 +872,7 @@ movies
 mowas
 mpjtest
 mpns
+msemesh
 msp
 mt
 mtbridge
@@ -858,6 +891,7 @@ nad
 naked
 nasa
 nashmesh
+nashville
 nasz
 nasze
 nc-asheville
@@ -947,8 +981,10 @@ offgrid
 offs
 offtopic
 ogden
+ogólny
 ohiosports
 ohl
+oilers
 okimesh
 okites
 okitest
@@ -965,6 +1001,7 @@ olywx-test
 oma
 oma-test
 omatest
+onqc
 ooe
 oorangecounty
 openhouse
@@ -986,6 +1023,7 @@ ostrowiec
 ott-alerts
 ottawa
 ourfamily
+outlaw
 owen
 oz7amg
 p09
@@ -996,11 +1034,13 @@ papasys
 papasystem
 paradox
 parrot
+participants
 passau
 path
 path2ramona
 pathfinders
 patrioci
+pau
 pawlo
 pds
 pdx
@@ -1025,6 +1065,7 @@ ping
 ping-bot
 pingbot
 pingpong
+ping-test
 pinoy
 piwo
 pl
@@ -1093,6 +1134,7 @@ queer
 qwerty
 radiation
 radio
+radiogram
 radio-testing
 radsr
 rainier
@@ -1113,17 +1155,20 @@ redbirdbot
 redlands
 redtest
 region-test
+regiontest
 register
 regut
 remoteterm
 renewables
 rennsteig
 repeat
+repeater
 repeaters
 repeater-testing
 research
 resko
 resonite
+resr
 reticulum
 retrocomputing
 rexburg
@@ -1134,6 +1179,7 @@ riobot
 riotfest
 riverside
 roanokeva
+robertson
 robot
 robotti
 roc
@@ -1177,6 +1223,7 @@ se
 se01
 se13
 se1384
+se1481
 se1490
 se7ven
 sea-bot
@@ -1202,11 +1249,13 @@ shd
 shoreline
 shtf
 si
+sieggraben
 sieradz
 silverthorne
 sipesbot
 si-pri
 si-test
+sk
 sk6ky
 sk7rn
 skagit
@@ -1253,6 +1302,7 @@ southwestva
 sp3
 spacex
 spam
+spanglish
 spanish
 spareno
 sports
@@ -1281,6 +1331,7 @@ stm
 stmk
 stockholm
 stoop
+stred
 stredoslovaci
 stresstest
 stricken
@@ -1319,6 +1370,7 @@ tagteam
 tarc
 tarnow
 tarnowskiegory
+tartu
 taubertal
 taucha
 taylorswift
@@ -1357,6 +1409,7 @@ testme
 testoeh
 testowanie
 test-palouse
+testpark
 testsl
 testujemy
 testwordlebot
@@ -1367,6 +1420,7 @@ tetonvalley
 tfc
 tgmeshtest
 thegoodplace
+theoc
 thepalouse
 thepalousetest
 tiegs
@@ -1396,6 +1450,7 @@ torrent
 torun
 tr
 traffic
+trans
 translink
 transportation
 trcnet
@@ -1407,8 +1462,10 @@ trondelag
 trondheim
 tropo
 trzebierz
+trzebnica
 tst
 tu-cert
+tulln
 turek
 turiec
 tusw1
@@ -1432,21 +1489,25 @@ uplate
 upstate
 upstatemesh
 us
+usa
 us-ca
 usrares
 us-southeast
+ut
 utah
 utahcounty
 utahmesh
 uvars
 uvarspublic
 va
+valbelluna
 vanbot
 vancouver
 vancouverwa
 vanisle
 vaxjo
 vaxnet
+vbgroup
 vcarc
 vcfmw
 ve7kod
@@ -1461,6 +1522,7 @@ victron
 videogames
 vie
 vienna
+vilnius
 vlz
 VLZ
 void
@@ -1495,6 +1557,7 @@ wcho
 wcmesh
 we4dx
 weather
+weather-eat
 weathertest
 wecg
 weed
@@ -1516,6 +1579,7 @@ west-test
 wetter
 wetter-simmering
 whitesox
+wien
 wienna
 wiesental
 winchester
@@ -1537,8 +1601,10 @@ wormhole
 wroclaw
 wroc-tech
 wrzesnia
+wv
 wvmesh
 ww-talk
+wwy
 wx
 wx-knox
 wx-tc
@@ -1546,6 +1612,7 @@ wx-ww
 wynental
 wyszkow
 xgme
+xhain
 yaesu
 yavin-bot
 yegwx
